@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EC Education</string>
+    <string name="title_name">Android Developer</string>
+    <string name="LoginButton">Login</string>
+</resources>
